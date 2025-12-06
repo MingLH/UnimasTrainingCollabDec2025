@@ -18,3 +18,8 @@ Yap Sin Er
     - Hobby: Pickle ball
     - Profession: Student
 
+Lee Hao Ming 
+    - Born: 2003, Selangor, Malaysia
+    - Hobby: Pickleball
+    - Profession: Student
+
